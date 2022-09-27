@@ -10,7 +10,7 @@ export default function MainLayout({children}){
                         <Header/>
                         <Nav/>
                         <main>
-                            <div className="max-w-7x1 mx-auto py-6 sm:px-6">
+                            <div className="max-w-7x1 mx-auto py-6 sm:px-6 lg:px-8">
                                 {children}
                             </div>
                         </main>
