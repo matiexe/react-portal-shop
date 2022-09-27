@@ -7,7 +7,7 @@ module.export = {
     },
     extends:[
         'eslint:recommended',
-        'plugin:jsxally/recommended',
+        'plugin:jsx-a11y/recommended',
         'plugin:prettier/recommended',
         "next",
         "next/core-web-vitals",
